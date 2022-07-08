@@ -1,2 +1,2 @@
 # c--
-a fucked up version of c++
+a fucked up esolang, parody of c++
